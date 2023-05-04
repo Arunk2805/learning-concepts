@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "Arva Arun Kumar",
+      "branch": "Electrical",
+      "college": "VJIT",
+      "id": 1
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "branch": "Mechanical",
+      "college": "Anurag",
+      "id": 2
+    },
+    {
+      "name": "Sai kumar",
+      "branch": "Information technology",
+      "college": "BVRIT",
+      "id": 3
+    },
+    {
+      "name": "Sandeep",
+      "branch": "Electrical",
+      "college": "JBIT",
+      "id": 4
+    },
+    {
+      "name": "Vinod",
+      "branch": "Computer Science",
+      "college": "JNTU",
+      "id": 5
+    },
+    {
+      "name": "Narendar",
+      "branch": "Civil",
+      "college": "kakatiya University",
+      "id": 6
+    }
+  ]
+}
