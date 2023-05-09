@@ -7,8 +7,8 @@ const Crud = () => {
   const [students, setStudents] = useState([]);
   const [isEdit, setIsEdit] = useState(false);
 
-  const getData = () => {
-    let res = axios.get("http://localhost:3031/students/").then((response) => {
+  const getData = async() => {
+    let res =  await axios.get("http://localhost:3031/students/").then((response) => {
       // console.log(response.data)
       setStudents(response.data);
     });
